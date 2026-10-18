@@ -2,10 +2,10 @@
 layout: post
 title: SVG Elements — What They Are, How to Use Them, and the Fill/Stroke Trap
 subtitle: A practical guide to SVG, from basic shapes to the sneaky fill/stroke behavior that trips up every developer
-published: true
+# published: true
 comment: true
 tags: [svg, html, vue, frontend, web]
-permalink: /post/2026-10-18-svg-elements-guide
+# permalink: /post/2026-10-18-svg-elements-guide
 ---
 
 ## What is SVG?
